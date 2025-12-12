@@ -1,1 +1,2 @@
-
+Tabirly gibi spiritüel, felsefi ve derinlikli konuları ele alan platformlarda, bilginin kaynağını doğrulanabilir kılmak hayati önem taşır. Ancak Blogger gibi geleneksel CMS yapılarında, uzun bir makale içindeki yüzlerce atıfı (citation) yönetmek, dipnotları <sup> etiketleriyle manuel olarak eşleştirmek ve bunları kaynakça listesiyle senkronize etmek yazar için hataya açık ve zaman alıcı bir süreçtir.
+Quick-Cite (QC), bu süreci otomatize etmek için geliştirilmiş, sadece editör modunda çalışan (?qc=1), tarayıcı tabanlı "akıllı bir asistandır". Bu kod, statik bir HTML sayfasını, üzerinde çalışılabilir dinamik bir veritabanına dönüştürür.
